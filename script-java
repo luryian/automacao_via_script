@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Alteraçãao"
 echo "Lucas Ryan e Gabriely"
 java teste-servidores.jar
 
