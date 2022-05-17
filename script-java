@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Lucas Ryan e Gabriely"
+java teste-servidores.jar
+
